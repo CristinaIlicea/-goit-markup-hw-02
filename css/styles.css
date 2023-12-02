@@ -16,21 +16,20 @@ body{
     color:#2E2F42;
     font-weight: 500;
 }
-.hero-section {
-    color:#fff
-    background-color: #2E2F42;
+.header-1 {
+    color:#ffffff;
     font-size: 56px;
     font-weight: 700;
-    line-height: 0.93;
+    line-height: 1;
 }
 .hero-button{
-    color: #fff;
+    color: #ffffff;
     background-color: var(--brand-color-light);
     cursor: pointer;
 }
 .hero-button:hover,
 .hero-button:focus{
-    color: #fff;
+    color: #ffffff;
     background-color: var(--brand-color-dark);
 }
 .header-2{
