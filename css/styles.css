@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family:'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: var(--brand-color-slate);
     background-color: #FFFFFFFF;
     font-size: 16px;
@@ -22,7 +22,7 @@ body {
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.54px;
     text-transform: uppercase;
     color: var(--brand-color-iris);
 }
@@ -32,28 +32,24 @@ a {
 }
 .link {
     text-decoration: none;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--brand-color-navvy-blue);
 }
 .link:hover, link:focus {
     color: var(--brand-color-ocean);
 }
 
 .list {
-    list-style: none;
+    list-style-type: none;
 }
 
 .contacts-list {
     font-style: normal;
+    list-style-type: none;
 }
 
 .mail-link {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.32px;
     color: var(--brand-color-slate);
 }
 
